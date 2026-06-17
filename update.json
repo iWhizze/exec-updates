@@ -1,5 +1,6 @@
 {
-  "latestVersion": "1.0.1",
-  "downloadUrl": "https://seu-servidor.com/ExecSetup_1.0.0.exe",
-  "changelog": "Texto do changelog.\nOutra linha."
+  "status": "online",
+  "latestVersion": "1.0.1.",
+  "downloadUrl": "https://seu-servidor.com/ExecSetup_1.0.1.0.exe",
+  "changelog": "Linha 1 do changelog\nLinha 2 do changelog\n...\n"
 }
